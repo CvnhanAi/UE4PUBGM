@@ -1,0 +1,9 @@
+Package: com.14th08.pubg
+Name : 14th08 ue4
+Depends: mobilesubstrate, preferenceloader
+Version: 3.7.0
+Architecture: iphoneos-arm
+Description: xztime
+Maintainer: xztime
+Author: xztime
+Section: 14th08
